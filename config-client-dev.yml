@@ -1,4 +1,5 @@
 info:
   profile:dev
-port:123456
+server:
+  port:123456
     
