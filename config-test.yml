@@ -1,2 +1,3 @@
-info:
-  profile:default
+spring:
+  datasource:
+    username:abc
